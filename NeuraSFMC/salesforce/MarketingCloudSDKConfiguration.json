@@ -1,0 +1,13 @@
+
+[{
+    "name": "Neura  for Marketing Cloud - iOS",
+    "appid": "fcdfabf7-a93a-48b6-9826-5905727ffed6",
+    "accesstoken": "vwes4FTPlMRHiCfyJyDD1038",
+    "marketing_cloud_server_url": "https://mcp6s3ndq8z251ytqz3d1bgv5g5y.device.marketingcloudapis.com",
+    "mid": "100022228",
+    "etanalytics": true,
+    "pianalytics": true,
+    "location": true,
+    "inbox": true,
+    "uselegacypiidentifier": true
+}]
